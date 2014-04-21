@@ -1,7 +1,9 @@
 steam-login
 ===========
 
-Put STEAM BigPicture mode at login screen
+Put STEAM BigPicture mode at login screen FOR KDM ON ARCH!
+
+This is a fork of thor27's steam-login for GDM/LightDM (or just Ubuntu), just made for KDM on Arch.
 
 NEWS
 ----
@@ -37,18 +39,10 @@ Steam, sometimes, may "hide" itself, mostly when something went wrong with a gam
 
 INSTALL
 -------
-To install on Ubuntu, just add the ppa so you can keep track of package updates:
 
-```
-sudo add-apt-repository ppa:thor27-gmail/steam-desktop 
-sudo apt-get update 
-sudo apt-get install steam-login
-```
+Copy the contents of steam-login to /.
 
-If you don't (or can't) use PPA, you can directly donwload the latest version from here:
-<a href="https://launchpad.net/~thor27-gmail/+archive/steam-desktop/+files/steam-login_8_all.deb">steam-login_8_all.deb</a>
-
-On Arch you can install this by installing <a href="https://aur.archlinux.org/packages/steam-session-git/">steam-session-git</a> on the AUR.
+AUR package in the works.
 
 HACKING ON IT
 -------------
