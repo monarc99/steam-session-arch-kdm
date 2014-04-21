@@ -1,5 +1,5 @@
-steam-login
-===========
+steam-session-arch-kdm
+======================
 
 Put STEAM BigPicture mode at login screen FOR KDM ON ARCH!
 
