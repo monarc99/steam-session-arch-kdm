@@ -44,16 +44,7 @@ Copy the contents of steam-login to /.
 
 AUR package in the works.
 
-HACKING ON IT
--------------
-It's a pretty simple project.
+CONTRIBUTING
+------------
 
-You just need to put the correct files on steam-login or stea-login-hacked folder, as if was your / folder. on DEBIAN control you may change version dependencies and stuff
-
-To build the package you just need to run the build.sh script:
-
-```
-./build.sh
-```
-
-Please fork-it and improve it :)
+Fork and send pull requests.
