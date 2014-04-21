@@ -42,7 +42,7 @@ INSTALL
 
 Copy the contents of steam-login to /.
 
-AUR package in the works.
+You can also install this with the "steam-session-kdm-git" package on the AUR.
 
 CONTRIBUTING
 ------------
