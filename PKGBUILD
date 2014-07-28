@@ -10,7 +10,7 @@ license=('GPL2')
 depends=('xfwm4' 'wmctrl' 'steam' 'kdebase-workspace')
 makedepends=('git')
 provides=("${pkgname%-*}")
-conflicts=("${pkgname%-*}")
+conflicts=("${pkgname%-*}" "steam-session-git")
 source=("${pkgname%-*}::git+https://github.com/markzz/steam-login-arch-kdm.git")
 sha256sums=('SKIP')
 
